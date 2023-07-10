@@ -16,7 +16,9 @@ having a 'Details' page, a 'Film Search' page, which contains, in addition to th
 auth folder,and place your firebase settings.
 
   
-2 - firebase     ➡️ ``npm i firebase``</h3><h2>
+2 - firebase     ➡️
+``npm i firebase</h3><h2>
+``
 <h3>For using environment variables.
   
 3 - react-native-dotenv  ➡️ npm i react-native-dotenv</h3><h2>
