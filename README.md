@@ -104,12 +104,18 @@ npx expo start
     <h2></h2> 
        <img align="center" alto="Ellen-movie" height="500" width="270" 
     src=https://github.com/Ellen-TSantos/movies/assets/122386488/458f9927-f016-4f91-87a1-972e1e19aa54>  
-      <img align="center" alto="Ellen-details" height="500" width="270" 
-    src=https://github.com/Ellen-TSantos/movies/assets/122386488/1e4dbb70-98f0-45aa-a991-cd1041ae31c5>
+      <img align="center" alto="Ellen-movie" height="500" width="270" 
+    src=https://github.com/Ellen-TSantos/MovieFlix/assets/122386488/4370046c-c070-47b4-ab53-abf50ce9cdfa>
     <h2></h2>
       <img align="center" alto="Ellen-search" height="500" width="270" 
     src=https://github.com/Ellen-TSantos/movies/assets/122386488/a7313dc3-1f8d-47f7-8463-fe9d7bee945d>  
+         <img align="center" alto="Ellen-search" height="500" width="270" 
+     src=https://github.com/Ellen-TSantos/MovieFlix/assets/122386488/8ab7d897-5efd-455d-82e5-fe572e318cd8>
+      <h2></h2>
+      <img align="center" alto="Ellen-details" height="500" width="270" 
+    src=https://github.com/Ellen-TSantos/movies/assets/122386488/1e4dbb70-98f0-45aa-a991-cd1041ae31c5>
       <img align="center" alto="Ellen-trailer" height="500" width="270" 
     src=https://github.com/Ellen-TSantos/movies/assets/122386488/54089f7e-4493-4abd-ad97-25c520c2c03b> 
+      <h2></h2>
 </div>
 
